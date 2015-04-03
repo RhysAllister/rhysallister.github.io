@@ -1,7 +1,13 @@
 ---
 layout: post
-title: Blogging Like a Hacker
+title: @rhysallisters stuff
 ---
 
 rhys allisters 
 =============
+
+Arbitrary stuff.
+
+```sql
+select * from stuff
+```
