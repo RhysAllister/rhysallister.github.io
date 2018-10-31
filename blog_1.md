@@ -1,5 +1,8 @@
 # a blog post 
 
+
+One of the more common GIS requests is to do a point-in-polygon summary. 
+
 a not quite point in polygon summary.
 final:
 ```SQL
